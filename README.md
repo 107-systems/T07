@@ -7,6 +7,12 @@ Outdoor robotics platform
 
 The JECCbot mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. It has mounting positions for Arduino Uno and Mega boards.
 
+## Dimensions
+
+The chassis is 40 cm long and 20 cm wide.
+
+The whole robot with ultrasonic sensors is depending on the wheels about 45 cm long and 35 cm wide. The weight is about 1.5 kg.
+
 ## Additional required hardware
 
 ### Motors
