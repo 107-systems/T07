@@ -1,0 +1,4 @@
+sources of 3rd party moldels:
+
+gear motors: https://grabcad.com/library/dc-motor-37d-2
+
