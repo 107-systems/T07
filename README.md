@@ -1,11 +1,13 @@
-# JECCbot_mini
+# T07
 Outdoor robotics platform
 
-![JECCbot mini rendering](jeccbot_mini_20191013_side.png)
+![T07 rendering](/docs/images/T07_rendering.png)
+
+![T07 rendering electronics](/docs/images/T07_rendering_electronics.png)
 
 ## Introduction
 
-The JECCbot mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. It has mounting positions for Arduino Uno and Mega boards.
+The T07 mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. It has mounting positions for Arduino Uno and Mega boards.
 
 ## Dimensions
 
