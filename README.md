@@ -5,6 +5,8 @@ Outdoor robotics platform
 
 ![T07 rendering electronics](/docs/images/T07_rendering_electronics.png)
 
+![T07 rendering with mandeye controller](/docs/images/T07_rendering_mandeye_controller.png)
+
 ## Introduction
 
 The T07 mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. It has mounting positions for Arduino Uno and Mega boards.
