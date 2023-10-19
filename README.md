@@ -3,13 +3,15 @@ Outdoor robotics platform
 
 ![T07 rendering](/docs/images/T07_rendering.png)
 
+![T07 rendering front](/docs/images/T07_rendering_front.png)
+
 ![T07 rendering electronics](/docs/images/T07_rendering_electronics.png)
 
 ![T07 rendering with mandeye controller](/docs/images/T07_rendering_mandeye_controller.png)
 
 ## Introduction
 
-The T07 mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. It has mounting positions for Arduino Uno and Mega boards.
+The T07 mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. There is also a mounting option for the [mandeye-controller](https://github.com/JanuszBedkowski/mandeye_controller).
 
 ## Dimensions
 
@@ -48,7 +50,9 @@ The whole robot with ultrasonic sensors is depending on the wheels about 45 cm l
 
 ## electronics and software
 
-This platform may be equipped with the hardware and software of the [Arduino on JECCbot mini project](https://github.com/generationmake/Arduino_on_JECCbot_mini).
+There are mounting holes for a Raspberry Pi or a [Pika Spark](https://docs.pika-spark.io/) on the controller standoff.
+
+[CyphalRobotController07/CAN](https://github.com/generationmake/CyphalRobotController07-CAN) is the main controller board.
 
 ## License
 
