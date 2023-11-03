@@ -19,21 +19,48 @@ The chassis is 40 cm long and 20 cm wide.
 
 The whole robot with ultrasonic sensors is depending on the wheels about 45 cm long and 35 cm wide. The weight is about 1.5 kg.
 
+### motor shaft and wheel dimension
+
+There are 2 positions to mount the motor shaft.
+
+| motor shaft    | shaft to roller wheel base | roller wheel height | recommended wheel diameter |
+|----------------|----------------------------|---------------------|----------------------------|
+| upper position | 20 mm                      | 100 mm              | 160 mm                     |
+| lower position | 34 mm                      | 100 mm              | 132 mm                     |
+
+
 ## Additional required hardware
 
 ### Motors
 
+A motor with a gear ratio of about 1:100 should be ok.
+
+#### standard
+
   * https://www.reichelt.de/getriebemotor-39-6-mm-75-1-12-v-dc-gm39-6-75-12v-p159644.html
-  * https://www.ebay.de/itm/SainSmart-29-1-Metal-Gearmotor-Getriebemotor-mit-64-CPR-Encoder-12V-365rpm/113749887018
   * https://www.conrad.de/de/p/getriebemotor-12-v-modelcraft-rb350100-0a101r-1-100-227560.html
+
+#### with encoder
+
+  * https://de.sainsmart.com/products/29-1-metal-gearmotor-365rpm-37dx52l-mm-with-64-cpr-encoder-12v
+  * https://eu.robotshop.com/de/products/12v-58rpm-60-1-gear-motor-encoder
+  * https://eu.robotshop.com/de/products/12v-26rpm-1201-gear-motor-w-encoder
 
 ### Wheels
 
- * https://www.conrad.de/de/p/reely-1-10-monstertruck-komplettraeder-extreme-5-doppelspeichen-schwarz-2-st-236925.html
+please pay attention to get the right wheel adapter
 
-### Wheel Adaptor
+#### 132 mm
 
-  * https://www.ebay.de/itm/Wellenkupplung-Hex-Sechskant-Kupplung-Rad-Antrieb-Modellbau-Kupplung-Welle/162666311593
+  * https://www.conrad.de/de/p/reely-1-10-monstertruck-komplettraeder-schwarz-2-st-2249111.html
+
+#### 160 mm
+  
+
+### Wheel Adapter
+
+  * https://www.pololu.com/product/2687
+  * https://eckstein-shop.de/Pololu-12mm-Hex-Wheel-Adapter-for-6mm-Shaft-Extended-2-Pack
 
 ### Roller wheel
 
