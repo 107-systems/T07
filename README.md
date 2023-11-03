@@ -28,6 +28,9 @@ There are 2 positions to mount the motor shaft.
 | upper position | 20 mm                      | 100 mm              | 160 mm                     |
 | lower position | 34 mm                      | 100 mm              | 132 mm                     |
 
+## Battery
+
+This robot is designed to work with the [Einhell Power X-Change system](https://www.einhell.de/en/battery-system/).
 
 ## Additional required hardware
 
