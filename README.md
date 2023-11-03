@@ -55,7 +55,8 @@ please pay attention to get the right wheel adapter
   * https://www.conrad.de/de/p/reely-1-10-monstertruck-komplettraeder-schwarz-2-st-2249111.html
 
 #### 160 mm
-  
+
+  * https://www.conrad.de/de/p/reely-1-6-buggy-komplettraeder-block-spike-8-speichen-schwarz-glaenzend-2-st-2159621.html
 
 ### Wheel Adapter
 
