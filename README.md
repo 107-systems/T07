@@ -23,10 +23,11 @@ The whole robot with ultrasonic sensors is depending on the wheels about 45 cm l
 
 There are 2 positions to mount the motor shaft.
 
-| motor shaft    | shaft to roller wheel base | roller wheel height | recommended wheel diameter |
-|----------------|----------------------------|---------------------|----------------------------|
-| upper position | 20 mm                      | 100 mm              | 160 mm                     |
-| lower position | 34 mm                      | 100 mm              | 132 mm                     |
+| motor shaft    | shaft to roller wheel base | roller wheel height     | recommended wheel diameter |
+|----------------|----------------------------|-------------------------|----------------------------|
+| upper position | 20 mm                      | 100 mm (70 mm diameter) | 160 mm                     |
+| lower position | 34 mm                      | 100 mm (70 mm diameter) | 132 mm                     |
+| lower position | 34 mm                      | 70 mm (50 mm diameter)  | 72 mm                      |
 
 ![T07 rendering side view with battery](/docs/images/T07_rendering_side_with_battery.png)
 
@@ -63,6 +64,10 @@ please pay attention to get the right wheel adapter
 
   * https://www.conrad.de/de/p/reely-1-6-buggy-komplettraeder-block-spike-8-speichen-schwarz-glaenzend-2-st-2159621.html
 
+#### 70 mm
+
+  * https://eu.robotshop.com/products/70mm-aluminium-wheel-6mm-bore
+
 ### Wheel Adapter
 
   * https://www.pololu.com/product/2687
@@ -70,8 +75,14 @@ please pay attention to get the right wheel adapter
 
 ### Roller wheel
 
+#### 100 mm height (70 mm diameter)
+
   * https://www.pollin.de/p/laufrolle-441614
   * https://radundrolle.de/seiten/Lenkrollen/Vollgummi-Lenkrolle_080.htm
+
+#### 70 mm height (50 mm diameter)
+
+  * https://www.pollin.de/p/masterproof-lenkrolle-kugelgelagert-4054-pvc-oe-50-mm-490596
 
 ### On/off Switch
 
@@ -80,6 +91,8 @@ please pay attention to get the right wheel adapter
 ### Emergency Switch
 
   * https://www.reichelt.de/not-aus-schalter-yw-40-mm-2-nc-id-yw1bv4e02r-p234555.html
+  * https://www.conrad.de/de/p/idec-yw1b-v4e01r-not-aus-schalter-240-v-ac-6-a-1-oeffner-1-st-700792.html
+  * https://www.conrad.de/de/p/deca-a20b-v4e11r-not-aus-schalter-mit-kontaktelement-240-v-ac-6-a-1-schliesser-1-oeffner-ip65-1-st-1233793.html
 
 ## electronics and software
 
