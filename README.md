@@ -1,13 +1,30 @@
-# T07
-Outdoor robotics platform
+<a href="https://107-systems.org/"><img align="right" src="https://raw.githubusercontent.com/107-systems/.github/main/logo/107-systems.png" width="15%"></a>
+T07
+===
+Mobile outdoor robotics platform.
 
-![T07 rendering](/docs/images/T07_rendering.png)
+### Repositories
+* [t07_robot](https://github.com/107-systems/t07_robot): ROS control code for T07 robot.
+* [t07_docker](https://github.com/107-systems/t07_docker): Dockerfile and scripts to run T07 control software on [Pika Spark](https://pika-spark.io/).
+* [t07_teleop](https://github.com/107-systems/t07_teleop): Keyboard based teleoperation for the T07 mobile outdoor robot.
 
-![T07 rendering front](/docs/images/T07_rendering_front.png)
+### 3D-Renderings
 
-![T07 rendering electronics](/docs/images/T07_rendering_electronics.png)
+<p align="center">
+   <img src="docs/images/T07_rendering.png" width="40%">
+</p>
 
-![T07 rendering with mandeye controller](/docs/images/T07_rendering_mandeye_controller.png)
+<p align="center">
+   <img src="docs/images/T07_rendering_front.png" width="40%">
+</p>
+
+<p align="center">
+   <img src="docs/images/T07_rendering_electronics.png" width="40%">
+</p>
+
+<p align="center">
+   <img src="docs/images/T07_rendering_mandeye_controller.png" width="40%">
+</p>
 
 ## Introduction
 
