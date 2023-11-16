@@ -10,13 +10,21 @@ Mobile outdoor robotics platform.
 
 ### 3D-Renderings
 
-![T07 rendering](/docs/images/T07_rendering.png)
+<p align="center">
+   <img src="docs/images/T07_rendering.png" width="40%">
+</p>
 
-![T07 rendering front](/docs/images/T07_rendering_front.png)
+<p align="center">
+   <img src="docs/images/T07_rendering_front.png" width="40%">
+</p>
 
-![T07 rendering electronics](/docs/images/T07_rendering_electronics.png)
+<p align="center">
+   <img src="docs/images/T07_rendering_electronics.png" width="40%">
+</p>
 
-![T07 rendering with mandeye controller](/docs/images/T07_rendering_mandeye_controller.png)
+<p align="center">
+   <img src="docs/images/T07_rendering_mandeye_controller.png" width="40%">
+</p>
 
 ## Introduction
 
