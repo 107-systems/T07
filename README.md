@@ -52,6 +52,10 @@ There are 2 positions to mount the motor shaft.
 
 This robot is designed to work with the [Einhell Power X-Change system](https://www.einhell.de/en/battery-system/).
 
+## Assembly
+
+Use flat M6 screw nuts (DIN 439, 3.2 mm high) for the assembly.
+
 ## Additional required hardware
 
 ### Motors
