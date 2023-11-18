@@ -30,6 +30,14 @@ Mobile outdoor robotics platform.
 
 The T07 mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. There is also a mounting option for the [mandeye-controller](https://github.com/JanuszBedkowski/mandeye_controller).
 
+## special configurations
+
+### T07 4WD
+
+<p align="center">
+   <img src="docs/images/T07_4WD_rendering.png" width="40%">
+</p>
+
 ## Dimensions
 
 The chassis is 40 cm long and 20 cm wide.
