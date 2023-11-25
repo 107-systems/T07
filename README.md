@@ -38,6 +38,16 @@ The T07 mini is an outdoor robotics platform intended for participation in conte
    <img src="docs/images/T07_4WD_rendering.png" width="40%">
 </p>
 
+### T07 low profile
+
+<p align="center">
+   <img src="docs/images/T07_low_profile_rendering.png" width="40%">
+</p>
+
+<p align="center">
+   <img src="docs/images/T07_low_profile_rendering_side.png" width="40%">
+</p>
+
 ## Dimensions
 
 The chassis is 40 cm long and 20 cm wide.
