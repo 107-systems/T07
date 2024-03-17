@@ -1,7 +1,8 @@
 <a href="https://107-systems.org/"><img align="right" src="https://raw.githubusercontent.com/107-systems/.github/main/logo/107-systems.png" width="15%"></a>
 T07
 ===
-Mobile outdoor robotics platform.
+
+T07 is a wheeled mobile outdoor robotics platform.
 
 ### Repositories
 * [t07_robot](https://github.com/107-systems/t07_robot): ROS control code for T07 robot.
@@ -28,9 +29,11 @@ Mobile outdoor robotics platform.
 
 ## Introduction
 
-The T07 mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. There is also a mounting option for the [mandeye-controller](https://github.com/JanuszBedkowski/mandeye_controller).
+The T07 is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments.
 
-## special configurations
+There is also a mounting option for the [mandeye-controller](https://github.com/JanuszBedkowski/mandeye_controller).
+
+## Special configurations
 
 ### T07 4WD
 
@@ -54,15 +57,15 @@ The chassis is 40 cm long and 20 cm wide.
 
 The whole robot with ultrasonic sensors is depending on the wheels about 45 cm long and 35 cm wide. The weight is about 1.5 kg.
 
-### motor shaft and wheel dimension
+### Motor shaft and wheel dimension
 
 There are 2 positions to mount the motor shaft.
 
-| motor shaft    | shaft to roller wheel base | roller wheel height     | recommended wheel diameter |
+| Motor shaft    | Shaft to roller wheel base | Roller wheel height     | Recommended wheel diameter |
 |----------------|----------------------------|-------------------------|----------------------------|
-| upper position | 20 mm                      | 100 mm (70 mm diameter) | 160 mm                     |
-| lower position | 34 mm                      | 100 mm (70 mm diameter) | 132 mm                     |
-| lower position | 34 mm                      | 70 mm (50 mm diameter)  | 72 mm                      |
+| Upper position | 20 mm                      | 100 mm (70 mm diameter) | 160 mm                     |
+| Lower position | 34 mm                      | 100 mm (70 mm diameter) | 132 mm                     |
+| Lower position | 34 mm                      | 70 mm (50 mm diameter)  | 72 mm                      |
 
 ![T07 rendering side view with battery](/docs/images/T07_rendering_side_with_battery.png)
 
@@ -80,12 +83,12 @@ Use flat M6 screw nuts (DIN 439, 3.2 mm high) for the assembly.
 
 A motor with a gear ratio of about 1:100 should be ok.
 
-#### standard
+#### Standard
 
   * https://www.reichelt.de/getriebemotor-39-6-mm-75-1-12-v-dc-gm39-6-75-12v-p159644.html
   * https://www.conrad.de/de/p/getriebemotor-12-v-modelcraft-rb350100-0a101r-1-100-227560.html
 
-#### with encoder
+#### With encoder
 
   * https://de.sainsmart.com/products/29-1-metal-gearmotor-365rpm-37dx52l-mm-with-64-cpr-encoder-12v
   * https://eu.robotshop.com/de/products/12v-58rpm-60-1-gear-motor-encoder
@@ -133,7 +136,7 @@ please pay attention to get the right wheel adapter
   * https://www.conrad.de/de/p/idec-yw1b-v4e01r-not-aus-schalter-240-v-ac-6-a-1-oeffner-1-st-700792.html
   * https://www.conrad.de/de/p/deca-a20b-v4e11r-not-aus-schalter-mit-kontaktelement-240-v-ac-6-a-1-schliesser-1-oeffner-ip65-1-st-1233793.html
 
-## electronics and software
+## Electronics and firmware
 
 There are mounting holes for a Raspberry Pi or a [Pika Spark](https://docs.pika-spark.io/) on the controller standoff.
 
